@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'ProNeft',
     description: "Using React, and Tailwindcss I have build a showcase website for a React Native app. This app is crossplatform where users can show case their nfts as well as trade with each other. Follow up for more",
-      image: '/images/2.png',
+      image: '/images/2.PNG',
       tags: ['React', 'Tailwindcss'],
     source: 'https://github.com/bqureshi94/Movieflix',
     visit: 'https://bqureshi94.github.io/Movieflix/',
