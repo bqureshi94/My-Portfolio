@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Movieflix',
     description: "Using React, Node.js, and OMDB API, I have build this basic movie application where users can type the name of any movie in the search bar and the webite will return the results based on their search",
-      image: '/images/1.png',
+      image: '../images/1.png',
       tags: ['React', 'Node', 'OMDB API'],
     source: 'https://github.com/bqureshi94/Movieflix',
     visit: 'https://bqureshi94.github.io/Movieflix/',
